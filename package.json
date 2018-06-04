@@ -1,0 +1,20 @@
+{
+  "name": "campsalot",
+  "version": "1.0.0",
+  "description": "Search layer on top of multiple campsite reservation sites",
+  "main": "lib/index.js",
+  "private": true,
+  "bin": {},
+  "now": {},
+  "dependencies": {
+    "commander": "^2.15.1",
+    "puppeteer": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node lib/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steve Armstrong",
+  "license": "Apache-2.0"
+}
