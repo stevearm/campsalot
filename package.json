@@ -8,6 +8,7 @@
   "now": {},
   "dependencies": {
     "commander": "^2.15.1",
+    "debug": "^3.1.0",
     "puppeteer": "^1.4.0"
   },
   "devDependencies": {},
